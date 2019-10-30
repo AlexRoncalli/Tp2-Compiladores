@@ -12,10 +12,12 @@ Para saida da analise Sintatica foi adotada uma abordagem, não recomendada de g
 ####            Compilação              ####
 
 $ make clean
+
 $ make
 
 
 ####             Execultar              ####
 
 $ ./lexico <nome_arguivo.txt>
+
 $ ./sintatico <nome_arquivo.txt>(não funciona)
