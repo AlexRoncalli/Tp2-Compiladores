@@ -4,6 +4,7 @@ Analisador Lexico(arrumado) e Sintático
 ####            Informacoes             ####
 
 Autor: Alexander Cristian Mendes Roncalli de Lima
+
 Data:25 de Outubro de 2019
 
 Este trabalho tem como objetivo criar um analisador Sintatico baseado em "C".
